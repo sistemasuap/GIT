@@ -1,0 +1,2 @@
+# GIT
+COURSE_BLOGS
